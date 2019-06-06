@@ -7,5 +7,5 @@ setup(name='numbers_to_letters',
       author='Reyes2777',
       author_email='jonathan.reyes2777@gmail.com',
       license='MIT',
-      packages=['numbtolet'],
+      packages=['numbers_to_letters'],
       zip_safe=False)
